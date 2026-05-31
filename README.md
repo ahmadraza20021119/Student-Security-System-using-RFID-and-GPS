@@ -132,3 +132,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👩‍💻 Author
+Ahmad raza
+B.Tech Student | Full Stack Developer
+
+“Develop with the great learning experiance.”
